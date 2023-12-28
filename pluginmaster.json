@@ -105,5 +105,27 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "LastUpdated": "0"
+    },
+    {
+        "Author": "Binm1",
+        "Name": "Guildleve",
+        "InternalName": "LiFu",
+        "AssemblyVersion": "2.0.3.1",
+        "Description": "Auto hand in Guildleve",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "LiFu",
+            "Lifu",
+            "Guildleve"
+        ],
+        "DalamudApiLevel": 8,
+        "Punchline": "Auto hand in Guildleve",
+        "DownloadLinkInstall": "https://github.com/KirisameVanilla/Guildleve/raw/master/release.zip",
+        "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Guildleve/raw/master/release.zip",
+        "DownloadLinkTesting": "https://github.com/KirisameVanilla/Guildleve/raw/master/release.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
