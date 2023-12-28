@@ -82,5 +82,28 @@
         "DownloadLinkUpdate": "https://nuko.me/extra/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1688286052"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "Radar",
+        "InternalName": "Radar",
+        "AssemblyVersion": "2.0.3.1",
+        "Description": "\u5728\u5c4f\u5e55\u548c\u6e38\u620f\u5730\u56fe\u4e0a\u663e\u793a\u6e38\u620f\u5b9e\u4f53\u7684\u4f4d\u7f6e\u3002\nDisplays game objects location on screen and map.",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "overlay",
+            "hunt",
+            "radar"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://i.loli.net/2021/09/24/UaxuSd9ODk5Ngil.png",
+        "Punchline": "Displays game objects location on screen and map.",
+        "DownloadLinkInstall": "https://github.com/KirisameVanilla/Radar/raw/master/release.zip",
+        "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Radar/raw/master/release.zip",
+        "DownloadLinkTesting": "https://github.com/KirisameVanilla/Radar/raw/master/release.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
