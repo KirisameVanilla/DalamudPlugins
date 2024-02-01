@@ -145,5 +145,23 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "LastUpdated": "0"
+    },
+    {
+        "Author": "xx",
+        "Name": "AutoRetainer",
+        "InternalName": "AutoRetainer",
+        "AssemblyVersion": "3.1.4.6",
+        "Description": "xx",
+        "ApplicableVersion": "any",
+        "Tags": null,
+        "DalamudApiLevel": 8,
+        "Punchline": "xx",
+        "DownloadLinkInstall": "https://github.com/KirisameVanilla/DalamudPlugins/raw/main/AutoRetainer/3.1.4.6.zip",
+        "DownloadLinkUpdate": "https://github.com/KirisameVanilla/DalamudPlugins/raw/main/AutoRetainer/3.1.4.6.zip",
+        "DownloadLinkTesting": "https://github.com/KirisameVanilla/DalamudPlugins/raw/main/AutoRetainer/3.1.4.6.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
