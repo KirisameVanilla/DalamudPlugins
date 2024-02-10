@@ -181,5 +181,36 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "LastUpdated": "0"
+    },
+    {
+        "Author": "Ottermandias",
+        "Name": "Glamourer",
+        "Punchline": "Change and save appearance of players.",
+        "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
+        "Tags": [
+            "Appearance",
+            "Glamour",
+            "Race",
+            "Outfit",
+            "Armor",
+            "Clothes",
+            "Skins",
+            "Customization",
+            "Design",
+            "Character"
+        ],
+        "InternalName": "Glamourer",
+        "AssemblyVersion": "1.0.0.6",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "ImageUrls": null,
+        "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/master/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/KirisameVanilla/DalamudPlugins/raw/main/Glamourer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KirisameVanilla/DalamudPlugins/raw/main/Glamourer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/KirisameVanilla/DalamudPlugins/raw/main/Glamourer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
