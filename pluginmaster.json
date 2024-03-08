@@ -52,5 +52,54 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "LastUpdated": "0"
+    },
+    {
+        "Author": "veyn",
+        "Name": "Boss Mod",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+        "Tags": [],
+        "InternalName": "BossMod",
+        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+        "DownloadCount": 71435,
+        "LastUpdate": 1709221896559,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "AssemblyVersion": "0.0.0.139",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+        "ImageUrls": [
+            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+        ]
+    },
+    {
+        "Author": "Asvel",
+        "Name": "Literal Map Link",
+        "InternalName": "LiteralMapLink",
+        "Punchline": "Turn map coordinates literal into interactable map link.",
+        "Description": "Turn map coordinates literal into interactable map link when you post in-game chat messages.\nWARNING: currently it's only tested under Chinese version FFXIV client.",
+        "Tags": [
+            "Chat",
+            "Utility"
+        ],
+        "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
+        "AssemblyVersion": "1.1.5.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "CategoryTags": [
+            "social",
+            "utility"
+        ],
+        "LastUpdate": "1709891425",
+        "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.5.0.zip",
+        "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.5.0.zip",
+        "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.5.0.zip"
     }
 ]
