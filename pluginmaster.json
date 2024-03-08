@@ -34,5 +34,23 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "LastUpdated": "0"
+    },
+    {
+        "Author": "ArchiDog1998",
+        "Name": "FakeName",
+        "InternalName": "FakeName",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "",
+        "ApplicableVersion": "any",
+        "Tags": null,
+        "DalamudApiLevel": 9,
+        "Punchline": "",
+        "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.1.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.1.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.1.1/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
