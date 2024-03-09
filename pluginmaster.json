@@ -18,24 +18,6 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "Limiana",
-        "Name": "Lifestream",
-        "InternalName": "Lifestream",
-        "AssemblyVersion": "1.0.0.0",
-        "Description": "",
-        "ApplicableVersion": "any",
-        "Tags": null,
-        "DalamudApiLevel": 9,
-        "Punchline": "",
-        "DownloadLinkInstall": "https://github.com/NightmareXIV/Lifestream/releases/download/2.0.1.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NightmareXIV/Lifestream/releases/download/2.0.1.5/latest.zip",
-        "DownloadLinkTesting": "https://github.com/NightmareXIV/Lifestream/releases/download/2.0.1.5/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "0"
-    },
-    {
         "Author": "ArchiDog1998",
         "Name": "FakeName",
         "InternalName": "FakeName",
