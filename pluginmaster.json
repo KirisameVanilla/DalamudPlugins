@@ -1,24 +1,6 @@
 [
     {
         "Author": "c98cmka",
-        "Name": "0xPvpPlugin",
-        "InternalName": "0xPvpPlugin",
-        "AssemblyVersion": "1.2.0.0",
-        "Description": "忍者索敌、会跳过DK骑士和被保护的目标、50%血以下解锁星遁天诛、关闭命水土遁(三印状态下也可缩地) /0x autoON /0x autoOFF武士突进止步不会进入连击状态(能连续放三次)/0x SLBXON /0x SLBXOFF",
-        "ApplicableVersion": "any",
-        "Tags": null,
-        "DalamudApiLevel": 9,
-        "Punchline": "战场小玩具",
-        "DownloadLinkInstall": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.2.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.2.0.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.2.0.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "0"
-    },
-    {
-        "Author": "c98cmka",
         "Name": "Flash",
         "InternalName": "Flash",
         "AssemblyVersion": "1.0.0.0",
@@ -30,24 +12,6 @@
         "DownloadLinkInstall": "https://github.com/c98cmka/Flash/releases/download/update/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/Flash/releases/download/update/latest.zip",
         "DownloadLinkTesting": "https://github.com/c98cmka/Flash/releases/download/update/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "0"
-    },
-    {
-        "Author": "c98cmka",
-        "Name": "LuckyStar",
-        "InternalName": "LuckyStar",
-        "AssemblyVersion": "1.1",
-        "Description": "自动农怪/刷fate（需安装nvavmesh及RotationSolver）",
-        "ApplicableVersion": "any",
-        "Tags": null,
-        "DalamudApiLevel": 9,
-        "Punchline": "自动农怪/刷fate（需安装nvavmesh及RotationSolver）",
-        "DownloadLinkInstall": "https://github.com/c98cmka/LuckyStar/releases/download/v1.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/c98cmka/LuckyStar/releases/download/v1.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/c98cmka/LuckyStar/releases/download/v1.1/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
@@ -149,16 +113,23 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "Jukka, RedAsteroid(本地化)",
-        "Name": "NecroLens",
-        "InternalName": "NecroLens",
-        "Punchline": "一位真正的死灵术士总是对深层迷宫了如指掌... 而有的人却在使用高科技！\n(在线安装 Only)",
-        "AssemblyVersion": "1.0.6.1",
-        "Description": "深层迷宫小帮手，提供怪物雷达、引战范围、视觉范围等功能。\n若安装后仍是英文界面，请将插件完整删除后重新安装。 \nCN 6.51\n傻逼倒狗你妈死了，买的你妈和倒狗一起死",
+        "Author": "img02",
+        "Name": "HuntHelper",
+        "InternalName": "HuntHelper",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "",
         "ApplicableVersion": "any",
+        "Tags": [
+            "hunt"
+        ],
         "DalamudApiLevel": 9,
-        "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
-        "DownloadLinkInstall": "https://github.com/RedAsteroid/NecroLens/releases/download/9/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/RedAsteroid/NecroLens/releases/download/9/latest.zip"
+        "Punchline": "",
+        "DownloadLinkInstall": "https://github.com/KirisameVanilla/HuntHelper/releases/download/1.0.0.0/HuntHelper.zip",
+        "DownloadLinkUpdate": "https://github.com/KirisameVanilla/HuntHelper/releases/download/1.0.0.0/HuntHelper.zip",
+        "DownloadLinkTesting": "https://github.com/KirisameVanilla/HuntHelper/releases/download/1.0.0.0/HuntHelper.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
