@@ -113,10 +113,10 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "img02",
+        "Author": "img02, KirisameVanilla",
         "Name": "HuntHelper_cn",
         "InternalName": "HuntHelper_cn",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.4",
         "Description": "",
         "ApplicableVersion": "any",
         "Tags": [
@@ -124,9 +124,9 @@
         ],
         "DalamudApiLevel": 9,
         "Punchline": "",
-        "DownloadLinkInstall": "https://github.com/KirisameVanilla/HuntHelper/releases/download/1.0.0.1/HuntHelper.zip",
-        "DownloadLinkUpdate": "https://github.com/KirisameVanilla/HuntHelper/releases/download/1.0.0.1/HuntHelper.zip",
-        "DownloadLinkTesting": "https://github.com/KirisameVanilla/HuntHelper/releases/download/1.0.0.1/HuntHelper.zip",
+        "DownloadLinkInstall": "https://github.com/KirisameVanilla/HuntHelper/releases/download/1.0.0.4/HuntHelper.zip",
+        "DownloadLinkUpdate": "https://github.com/KirisameVanilla/HuntHelper/releases/download/1.0.0.4/HuntHelper.zip",
+        "DownloadLinkTesting": "https://github.com/KirisameVanilla/HuntHelper/releases/download/1.0.0.4/HuntHelper.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
