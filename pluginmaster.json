@@ -1,65 +1,23 @@
 [
     {
-        "Author": "c98cmka",
-        "Name": "Flash",
-        "InternalName": "Flash",
-        "AssemblyVersion": "1.0.0.0",
-        "Description": "能将你瞬移到<flag>的小玩意",
-        "ApplicableVersion": "any",
-        "Tags": null,
-        "DalamudApiLevel": 9,
-        "Punchline": "能将你瞬移到<flag>的小玩意",
-        "DownloadLinkInstall": "https://github.com/c98cmka/Flash/releases/download/update/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/c98cmka/Flash/releases/download/update/latest.zip",
-        "DownloadLinkTesting": "https://github.com/c98cmka/Flash/releases/download/update/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "0"
-    },
-    {
-        "Author": "ArchiDog1998",
-        "Name": "FakeName",
-        "InternalName": "FakeName",
-        "AssemblyVersion": "1.1.2",
-        "Description": "",
-        "ApplicableVersion": "any",
-        "Tags": null,
-        "DalamudApiLevel": 9,
-        "Punchline": "",
-        "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.1.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.1.2/latest.zip",
-        "DownloadLinkTesting": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.1.2/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "0"
-    },
-    {
         "Author": "Asvel",
         "Name": "Literal Map Link",
         "InternalName": "LiteralMapLink",
         "Punchline": "Turn map coordinates literal into interactable map link.",
         "Description": "Turn map coordinates literal into interactable map link when you post in-game chat messages.\nWARNING: currently it's only tested under Chinese version FFXIV client.",
-        "Tags": [
-            "Chat",
-            "Utility"
-        ],
+        "Tags": ["Chat", "Utility"],
         "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
-        "AssemblyVersion": "1.1.5.0",
+        "AssemblyVersion": "1.1.6.0",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 0,
-        "CategoryTags": [
-            "social",
-            "utility"
-        ],
-        "LastUpdate": "1709891425",
-        "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.5.0.zip",
-        "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.5.0.zip",
-        "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.5.0.zip"
+        "CategoryTags": ["social", "utility"],
+        "LastUpdate": "1720418219",
+        "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.6.0.zip",
+        "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.6.0.zip",
+        "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.6.0.zip"
     },
     {
         "Author": "Sevii",
@@ -113,44 +71,24 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "img02, KirisameVanilla",
-        "Name": "HuntHelper_cn",
-        "InternalName": "HuntHelper_cn",
-        "AssemblyVersion": "1.0.0.4",
-        "Description": "",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "hunt"
-        ],
-        "DalamudApiLevel": 9,
-        "Punchline": "",
-        "DownloadLinkInstall": "https://github.com/KirisameVanilla/HuntHelper/releases/download/1.0.0.4/HuntHelper.zip",
-        "DownloadLinkUpdate": "https://github.com/KirisameVanilla/HuntHelper/releases/download/1.0.0.4/HuntHelper.zip",
-        "DownloadLinkTesting": "https://github.com/KirisameVanilla/HuntHelper/releases/download/1.0.0.4/HuntHelper.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "0"
-    },
-    {
         "Author": "KirisameVanilla",
         "Name": "HuntKit",
         "InternalName": "HuntKit",
-        "AssemblyVersion": "0.0.0.1",
+        "AssemblyVersion": "0.0.0.2",
         "Description": "/huntkit\nNow working on auto find Rank A Mob",
         "ApplicableVersion": "any",
         "Tags": [
           "hunt"
         ],
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "Punchline": "Tool kit that can help player better hunt.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.2/latest.zip"
       }
 ]
