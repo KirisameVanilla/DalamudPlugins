@@ -74,8 +74,8 @@
         "Author": "KirisameVanilla",
         "Name": "HuntKit",
         "InternalName": "HuntKit",
-        "AssemblyVersion": "0.0.0.2",
-        "Description": "/huntkit\nNow working on auto find Rank A Mob",
+        "AssemblyVersion": "0.0.0.3",
+        "Description": "/huntkit",
         "ApplicableVersion": "any",
         "Tags": [
           "hunt"
@@ -87,8 +87,8 @@
         "LoadPriority": 0,
         "Punchline": "Tool kit that can help player better hunt.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.2/latest.zip",
-        "DownloadLinkTesting": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.2/latest.zip"
+        "DownloadLinkInstall": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.3/latest.zip",
+        "DownloadLinkTesting": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.3/latest.zip"
       }
 ]
