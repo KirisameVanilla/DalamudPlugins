@@ -90,5 +90,26 @@
         "DownloadLinkInstall": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.3/latest.zip",
         "DownloadLinkTesting": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.3/latest.zip"
-      }
+      }，
+    {
+       "Author": "0x, NiGuangOwO, KV",
+  "Name": "LuckyStar",
+  "InternalName": "LuckyStar",
+  "AssemblyVersion": "0.0.0.3",
+  "Description": "woc！触发组！",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "RankS"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "自动农怪（需安装vnavmesh及自动循环插件），请手动打开AE的主动攻击",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/KirisameVanilla/LuckyStar/releases/download/0.0.0.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KirisameVanilla/LuckyStar/releases/download/0.0.0.3/latest.zip",
+        "DownloadLinkTesting": "https://github.com/KirisameVanilla/LuckyStar/releases/download/0.0.0.3/latest.zip"
+    }
 ]
