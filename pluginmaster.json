@@ -48,27 +48,25 @@
         ]
     },
     {
-        "Author": "akira0245, KV",
+        "Author": "akira0245, KirisameVanilla",
         "Name": "Radar",
         "InternalName": "Radar",
         "AssemblyVersion": "2.0.6.0",
-        "Description": "\u5728\u5c4f\u5e55\u548c\u6e38\u620f\u5730\u56fe\u4e0a\u663e\u793a\u6e38\u620f\u5b9e\u4f53\u7684\u4f4d\u7f6e\u3002\nDisplays game objects location on screen and map.\nNow is under refactoring by KirisameVanilla.",
+        "TestingAssemblyVersion": "2.0.6.3",
+        "RepoUrl": "https://github.com/KirisameVanilla/Radar_decompiled",
+        "Description": "\u5728\u5c4f\u5e55\u548c\u6e38\u620f\u5730\u56fe\u4e0a\u663e\u793a\u6e38\u620f\u5b9e\u4f53\u7684\u4f4d\u7f6e\u3002\nDisplays game objects location on screen and map.\n测试版本是重构中和目前重构后的版本，愿意用的可以用以下测一下有没有问题",
         "ApplicableVersion": "any",
-        "Tags": [
-            "overlay",
-            "hunt",
-            "akira"
-        ],
+        "Tags": ["overlay", "hunt", "Radar"],
         "DalamudApiLevel": 10,
         "IconUrl": "https://i.loli.net/2021/09/24/UaxuSd9ODk5Ngil.png",
         "Punchline": "Displays game objects location on screen and map.",
         "DownloadLinkInstall": "https://github.com/KirisameVanilla/Radar_decompiled/releases/download/2.0.6.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Radar_decompiled/releases/download/2.0.6.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/KirisameVanilla/Radar_decompiled/releases/download/2.0.6.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/KirisameVanilla/Radar_decompiled/releases/download/2.0.6.3/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "0"
+        "LastUpdated": "1728306629"
     },
     {
         "Author": "KirisameVanilla",
