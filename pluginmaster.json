@@ -103,7 +103,7 @@
     "Author": "KirisameVanilla",
     "Name": "SpecialWeaponProgressOverview",
     "InternalName": "SpecialWeaponProgessOverview",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools）",
     "ApplicableVersion": "any",
     "Tags": [
@@ -118,9 +118,9 @@
     "LoadPriority": 0,
     "Punchline": "一个用来检测和快速查询肝武进度的小工具。",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.2/latest.zip"
   },
   {
     "Author": "0x, NiGuangOwO, KV",
