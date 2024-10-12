@@ -26,34 +26,6 @@
     "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.6.0.zip"
   },
   {
-    "Author": "Sevii",
-    "Name": "Material UI",
-    "Description": "Auto updating Material UI with customizable accent color and more. Icon by Mek",
-    "InternalName": "MaterialUI",
-    "AssemblyVersion": "1.4.12.1",
-    "TestingAssemblyVersion": "1.4.12.1",
-    "RepoUrl": "https://github.com/Sevii77/ffxiv_materialui_accent",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 9,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": 1713149463,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/LiangYuxuan/ffxiv-materialui-accent-cn/master/release_gh.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/LiangYuxuan/ffxiv-materialui-accent-cn/master/release_gh.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/LiangYuxuan/ffxiv-materialui-accent-cn/master/release_gh.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/images/icon.png",
-    "Tags": [
-      "ui",
-      "penumbra",
-      "material",
-      "skotlex",
-      "sevii",
-      "accent",
-      "color"
-    ]
-  },
-  {
     "Author": "akira0245, KirisameVanilla",
     "Name": "Radar",
     "InternalName": "Radar",
@@ -118,9 +90,9 @@
     "LoadPriority": 0,
     "Punchline": "一个用来检测和快速查询肝武进度的小工具。",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.2/latest.zip"
+    "DownloadLinkInstall": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.3/latest.zip"
   },
   {
     "Author": "0x, NiGuangOwO, KV",
