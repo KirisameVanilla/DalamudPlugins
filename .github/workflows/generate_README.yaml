@@ -1,0 +1,27 @@
+name: Regenerate README.md
+on: 
+  workflow_dispatch:
+jobs:
+  generate:
+    name: Regenerate README.md
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/setup-python@v2
+        with:
+            python-version: '3.8'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - uses: actions/checkout@v2
+
+      - name: Regenerate README.md
+        run: python generate_readme.py
+
+      - uses: EndBug/add-and-commit@v7
+        with:
+          author_name: GitHub Action
+          author_email: github-actions[bot]@users.noreply.github.com
+          message: Regenerate README.md
