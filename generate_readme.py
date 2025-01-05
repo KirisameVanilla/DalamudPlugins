@@ -33,9 +33,13 @@ def generate_markdown_table(data):
             plugins[0]
         )
         name = f"[{primary_name_plugin['Name']}]({primary_name_plugin['RepoUrl']})"
-        
-        api_10 = "✔" if any(plugin['DalamudApiLevel'] == 10 for plugin in plugins) else ""
-        api_11 = "✔" if any(plugin['DalamudApiLevel'] == 11 for plugin in plugins) else ""
+
+        api_10, api_11 = "", ""
+        for plugin in plugins:
+            if plugin['DalamudApiLevel'] == 10:
+                api_10 = f"✔ ({plugin['AssemblyVersion']})"
+            elif plugin['DalamudApiLevel'] == 11:
+                api_11 = f"✔ ({plugin['AssemblyVersion']})"
         
         author = plugins[0]['Author']
         rows.append(f"| {name} | {api_10}     | {api_11}     | {author} |")
@@ -48,9 +52,9 @@ def write_to_md_file(file_name, content):
     try:
         with open(file_name, "w", encoding="utf-8") as file:
             file.write(content)
-        print(f"Success: {file_name}")
+        print(f"Write succeed: {file_name}")
     except IOError as e:
-        print(f"Failed: {e}")
+        print(f"Write fail: {e}")
 
 json_data = fetch_json_from_url(url)
 markdown_table = generate_markdown_table(json_data)
