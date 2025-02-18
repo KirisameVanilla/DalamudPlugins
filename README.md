@@ -7,7 +7,6 @@
 | [HuntKit](https://github.com/KirisameVanilla/Marisa-s-HuntKit) | ✔ (0.0.0.3)     |      | KirisameVanilla |
 | [SpecialWeaponProgressOverview](https://github.com/KirisameVanilla/SpecialWeaponProgressOverview) | ✔ (0.0.0.2)     |      | KirisameVanilla |
 | [Orbwalker](https://github.com/KirisameVanilla/Orbwalker) |      | ✔ (1.0.1.0)     | kawaii, NightmareXIV, KirisameVanilla (本地化) |
-| [MyPluginsArentCheat](https://github.com/Nukoooo/MyPluginsArentCheat) | ✔ (1.0.0.3)     |      | Nuko |
 | [Fake Name](https://github.com/KirisameVanilla/FakeName) |      | ✔ (2.0.0.7)     | KirisameVanilla |
 | [BreakfastHuntTrainLeader](https://github.com/KirisameVanilla/BreakfastHuntTrainLeader) |      | ✔ (1.0.0.9)     | KirisameVanilla |
 ## Repo Url
