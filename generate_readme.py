@@ -20,8 +20,8 @@ def generate_markdown_table(data):
     for item in data:
         plugin_groups[item['InternalName']].append(item)
     
-    header = "| 插件名                     | API 10 | API 11 | 作者  |\n" + \
-             "|----------------------------|--------|--------|-------|"
+    header = "| 插件名                     | API 10 | API 11 | API 12 | 作者  |\n" + \
+             "|----------------------------|--------|--------|-------|-------|"
     rows = []
     rows.append("# KirisameVanilla's Dalamud Repo")
     rows.append("## Plugins")
@@ -34,15 +34,17 @@ def generate_markdown_table(data):
         )
         name = f"[{primary_name_plugin['Name']}]({primary_name_plugin['RepoUrl']})"
 
-        api_10, api_11 = "", ""
+        api_10, api_11, api_12 = "", "", ""
         for plugin in plugins:
             if plugin['DalamudApiLevel'] == 10:
                 api_10 = f"✔ ({plugin['AssemblyVersion']})"
             elif plugin['DalamudApiLevel'] == 11:
                 api_11 = f"✔ ({plugin['AssemblyVersion']})"
+            elif plugin['DalamudApiLevel'] == 12:
+                api_12 = f"✔ ({plugin['AssemblyVersion']})"
         
         author = plugins[0]['Author']
-        rows.append(f"| {name} | {api_10}     | {api_11}     | {author} |")
+        rows.append(f"| {name} | {api_10}     | {api_11}     | {api_12}     | {author} |")
     
     rows.append("## Repo Url")
     rows.append(f"```\n{url}\n```")
